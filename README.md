@@ -10,6 +10,10 @@ I used the total population variable to easily see how big can be the population
 In the fourth chart I related the "Avg. Child malnutrinion stunting" with the "Life expectancy" variables. It shows that
 the higher is the child malnutrition, the lower is the life expectancy.
 
+The dashboard is available at:
+
+https://public.tableau.com/app/profile/rigoberto.obregon.tello/viz/EPIandvariousmetricsDASHBOARD/Dashboard1?publish=yes
+
 End of 02/26/2023 comments.
 
 
