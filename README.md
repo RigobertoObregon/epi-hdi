@@ -1,3 +1,19 @@
+Added 02/26/2023 for EPI vs HDI Lab.
+
+I contrasted the "% of Employment in Agriculture" and the "% Employment in Services" variables. There is no available
+information for countries as the US or Russia. However, for the rest of countries, is interesting how some of them
+have a high percentage of employment in agriculture or services. This can give an idea of how those type of economies
+can affect other economic or social variables.
+
+I used the total population variable to easily see how big can be the population in certain countries as China and India.
+
+In the fourth chart I related the "Avg. Child malnutrinion stunting" with the "Life expectancy" variables. It shows that
+the higher is the child malnutrition, the lower is the life expectancy.
+
+End of 02/26/2023 comments.
+
+
+
 # epi-hdi
 
 # eda.py was included as required and eda.ipynb to test and save plots.
